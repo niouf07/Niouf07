@@ -15,4 +15,4 @@
 
 
 <h6>Thanks to iglee42 for the inspiration</h6>
-<h7>https://github.com/iglee42</h7>
+<h6>https://github.com/iglee42</h6>
