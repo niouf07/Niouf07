@@ -1,6 +1,5 @@
 # Niouf\_ the platypus
 
-/In progress\
 
 <h3>Spoken language: </h3>
 <p>
