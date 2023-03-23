@@ -7,11 +7,7 @@
 </h2>
 
 <h2>Us3ed language: </h2>
-<p>
-  <h3>Javascrypt</h3>
-  <h3>Html</h3>
-  <h3>CSS</h3>
-</p>
+ <h3>Javascrypt, html and CSS</h3>
 
 <h3>I'm learning the C++</h3>
 
