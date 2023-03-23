@@ -6,8 +6,8 @@
   
 </h2>
 
-<h2>Us3ed language: </h2>
- <h3>Javascrypt, html and CSS</h3>
+<h2>Used language: </h2>
+<h3>Javascrypt, html and CSS</h3>
 
 <h3>I'm learning the C++</h3>
 
