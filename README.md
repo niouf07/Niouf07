@@ -9,7 +9,7 @@
 <h2>Used language: </h2>
 <h3>Javascrypt, html and CSS</h3>
 
-<h3>I'm learning the C++</h3>
+<h3>I'm learning C and C++</h3>
 
 
 ![Les Stats GitHub de Niouf_](https://github-readme-stats.vercel.app/api?username=niouf07&show_icons=true&theme=tokyonight)
