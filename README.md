@@ -1,15 +1,6 @@
 # Niouf\_ the platypus
 
-<h2>Hi!
-  <br>
-  I'm a Non-binary french dev
-  
-</h2>
-
-<h2>Used language: </h2>
-<h3>Javascrypt, html and CSS</h3>
-
-<h3>I'm learning C and C++</h3>
+<h2>Hi!</h2>
 
 
 ![Les Stats GitHub de Niouf_](https://github-readme-stats.vercel.app/api?username=niouf07&show_icons=true&theme=tokyonight)
