@@ -11,8 +11,8 @@
 </p>
 
 <h2>Réseaux sociaux</h2>
-  <a href="https://discord.gg/rBTB28hskA"><img alt="niouf_" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://twitter.com/Niouf07_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://discord.gg/rBTB28hskA"><img alt="niouf_" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" target=”_blank” /></a>
+  <a href="https://twitter.com/Niouf07_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target=”_blank” /></a>
 
 <h2>Satistiques Github</h2>
 <img align="left" alt="Niouf_'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niouf07&show_icons=true&theme=tokyonight" />
