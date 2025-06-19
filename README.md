@@ -1,4 +1,4 @@
-# Niouf_ the platypus
+# Niouf\_ the platypus
 
 <h6>Made by <a href="https://github.com/iglee42">Iglée</a></h6>
 
@@ -15,10 +15,8 @@
   <a href="https://twitter.com/Niouf07_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"/></a>
 
 <h2>Contact</h2>
-  <h3>contact@niouf.net</h3>
+<a href="https://discord.gg/Ru5HRN4s">Discord</a>
+
 
 <h2>Github Stats</h2>
 <img align="left" alt="Niouf_'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niouf07&show_icons=true&theme=tokyonight" />
-
-
-
